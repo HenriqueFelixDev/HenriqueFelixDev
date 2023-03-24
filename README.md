@@ -1,7 +1,6 @@
 ### Olá, eu sou o Henrique Félix
 :seedling: Desde muito novo apaixonado por tecnologia<br/>
 :mortar_board: Graduado em Análise e Desenvolvimento de sistemas<br/>
-:computer: Flutter Freelancer<br/>
 
 <p align="left">
   <a href="mailto:henriquefelixdev@gmail.com" target="_blank" alt="Gmail">
